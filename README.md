@@ -1,5 +1,7 @@
 # Reds Not Dead
 
+![Reds Not Dead desktop preview](preview.png)
+
 A red-and-black Omarchy theme built around true black surfaces, vivid red accents, and white highlights.
 
 ## Design
